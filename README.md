@@ -5,8 +5,9 @@
 
 - Technologies I work with: 
 - Front End:
+✅ Typescript
 ✅ Next.js
-✅ React, React-Redux, React-Router
+✅ React, [React-Redux, React-Router]
 ✅ AngularJS, Angular 6
 ✅ HTML5, CSS and ES6/7 JavaScript
 
@@ -15,7 +16,6 @@
 ✅ PHP with Laravel Framework
 
 ✅ Database: MongoDB, MySQL, PostgreSQL, RethinkDb
-
 ✅ API Architecture: REST, GraphQl
 
 - 📫 ranazeshan30@gmail.com
