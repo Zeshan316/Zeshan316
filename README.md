@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Zeshan316 a Full Stack Web Developer with experience of Eight years of working on web applications using the latest technologies, mostly the MERN/MEAN stack.
+- 👋 Hello, I'm @Zeshan316, a Full Stack Web Developer with eight years of experience working on web applications using the latest technologies, particularly the MERN/MEAN stack.
 
 
-- I strive to find opportunities to work with organizations that primarily focus on new and futuristic ideas,
-technologies, and efficient systems. Having been a part of such organizations in the past & present, I thoroughly enjoy working in teams that share the same vision.
+- I'm passionate about finding opportunities to work with organizations that focus on cutting-edge ideas, technologies, and efficient systems. Having worked with such organizations in the past and present, I greatly enjoy collaborating with teams that share my vision
 
 - Technologies I work with: 
 - Front End:
@@ -12,10 +11,12 @@ technologies, and efficient systems. Having been a part of such organizations in
 -- HTML5, CSS and ES6/7 JavaScript
 
 - Back End:
--- Node.js with Nest JS
+-- Node.js with Nest JS, Express Js
 -- PHP with Laravel Framework
 
-- Database: MongoDB, MySQL, PostgreSQL
+- Database: MongoDB, MySQL, PostgreSQL, RethinkDb
+
+- API Architecture: REST, GraphQl
 
 - 📫 ranazeshan30@gmail.com
 - 📫 Linkedin: https://www.linkedin.com/in/muhammad-zeshan-ghafoor-b4195975/
