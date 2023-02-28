@@ -5,18 +5,18 @@
 
 - Technologies I work with: 
 - Front End:
--- Next.js
--- React, React-Redux, React-Router
--- AngularJS, Angular 6
--- HTML5, CSS and ES6/7 JavaScript
+✅ Next.js
+✅ React, React-Redux, React-Router
+✅ AngularJS, Angular 6
+✅ HTML5, CSS and ES6/7 JavaScript
 
 - Back End:
--- Node.js with Nest JS, Express Js
--- PHP with Laravel Framework
+✅ Node.js with Nest JS, Express Js
+✅ PHP with Laravel Framework
 
-- Database: MongoDB, MySQL, PostgreSQL, RethinkDb
+✅ Database: MongoDB, MySQL, PostgreSQL, RethinkDb
 
-- API Architecture: REST, GraphQl
+✅ API Architecture: REST, GraphQl
 
 - 📫 ranazeshan30@gmail.com
 - 📫 Linkedin: https://www.linkedin.com/in/muhammad-zeshan-ghafoor-b4195975/
