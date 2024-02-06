@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @Zeshan316, a Full Stack Web Developer with eight years of experience working on web applications using the latest technologies, particularly the MERN/MEAN stack.
+- 👋 Hello, I'm @Zeshan316, a Full Stack Web Developer with eight+ years of experience working on web applications using the latest technologies, particularly the MERN/MEAN stack.
 
 
 - I'm passionate about finding opportunities to work with organizations that focus on cutting-edge ideas, technologies, and efficient systems. Having worked with such organizations in the past and present, I greatly enjoy collaborating with teams that share my vision
